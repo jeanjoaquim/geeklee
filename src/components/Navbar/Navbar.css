@@ -1,0 +1,10 @@
+.nav-list {
+    display: flex;
+    list-style: none;
+}
+
+.nav-item {
+    color: #ffffff;
+    font-weight: 700;
+    padding: 1rem 2rem;
+}
